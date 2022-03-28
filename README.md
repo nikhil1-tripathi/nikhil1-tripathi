@@ -21,4 +21,4 @@
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/nikhil-tripathi-483534221">LinkedIn</a></li>
 </ul>
 
-<h2> Language and Tools:<h2/>
+<h2> Language and Tools:</h2>

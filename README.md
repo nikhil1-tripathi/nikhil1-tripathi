@@ -21,4 +21,4 @@
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/nikhil-tripathi-483534221">LinkedIn</a></li>
 </ul>
 
-[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil1-tripathi)](https://github.com/nikhil1-tripathi/github-readme-stats)
+<h2> Language and Tools:<h2/>

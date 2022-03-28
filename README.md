@@ -50,7 +50,7 @@
  <a href="https://www.postman.com/" rel="nofollow" style="user-select: auto;">
   <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="Postman" width="40" height="40" style="max-width: 100%; margin-left = "6px"    user-select: auto;"> 
  </a>
- 
- 
- 
+  
  </p>
+ 
+ <img align="right" alt="GIF" src="https://camo.githubusercontent.com/1c599fd……6f6d2f6…" data-canonical-src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" style="max-width: 100%; user-select: auto;">

@@ -1,8 +1,8 @@
 
- <h1 align="center">
+ <h1 style = "margin = auto" align="center">
      Hi <img width=30px style = "max-width=30%; user-select = auto" src = "https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif"/> , I'm Nikhil Tripathi
 </h1>
-<h1 align = "center" style = "margin = auto"> <img src ="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer"/></h1>
+<h1 align = "center" > <img src ="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer"/></h1>
 <h2>About me!</h2>
 
 

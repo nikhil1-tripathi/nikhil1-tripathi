@@ -3,7 +3,7 @@
      Hi <img width=30px style = "max-width=30%; user-select = auto" src = "https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif"/> , I'm Nikhil Tripathi
 </h1>
 <h2>About me!</h2>
-<h1>https://readme-typing-svg.herokuapp.com?lines=The+five+boxing+wizards+jump+quickly)</h1>
+<h1> <img src = "https://readme-typing-svg.herokuapp.com?lines=The+five+boxing+wizards+jump+quickly"/></h1>
 
 <p>One who likes to code and live in the world of web development</p>
 <p>I enjoy developing websites and web applications with a specialization in MERN stack. In My free time I love to play Volleyball, video games and learning about new technologies.</p>

@@ -12,7 +12,7 @@
   <li>🌱 I’m currently learning full-stack web-development</li>
   <li>👯 I’m looking to collaborate on interesting projects</li>
   <li>💬 Ask me about React, JavaScript, CSS.</li>
-  <li>⚡ Fun fact: I waiting for you to come here.</li>
+  <li>⚡ Fun fact: I am waiting for you to come here.</li>
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/nikhil-tripathi-483534221">LinkedIn</a></li>
 </ul>
 

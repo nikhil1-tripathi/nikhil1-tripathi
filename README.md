@@ -1,6 +1,6 @@
 
  <h1 align="center">
-     Hi https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif, I'm Nikhil Tripathi
+     Hi src = "https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif", I'm Nikhil Tripathi
 </h1>
 <h2>About me!</h2>
 

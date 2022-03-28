@@ -3,7 +3,11 @@
      Hi <img width=30px style = "max-width=30%; user-select = auto" src = "https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif"/> , I'm Nikhil Tripathi
 </h1>
 <h2>About me!</h2>
+<p dir="auto" style="user-select: auto;">
+ <a href="https://git.io/typing-svg" rel="nofollow" style="user-select: auto;">
 <img src="https://camo.githubusercontent.com/7f2fc7d……706c6f7…" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=25&center=false&lines=Explorer...;Full+Stack+Web+Developer..." style="max-width: 100%; user-select: auto;">
+ </a>
+ </p>
 
 <p>One who likes to code and live in the world of web development</p>
 <p>I enjoy developing websites and web applications with a specialization in MERN stack. In My free time I love to play Volleyball, video games and learning about new technologies.</p>

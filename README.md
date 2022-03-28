@@ -28,27 +28,27 @@
  </a>
  
  <a href="https://www.w3schools.com/css/" rel="nofollow" style="user-select: auto;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="max-width: 100%;     user-select: auto;"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="max-width: 100%;  margin-left = "6px"   user-select: auto;"> 
  </a>
  <a href="https://www.javascript.com/" rel="nofollow" style="user-select: auto;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="max-width: 100%;     user-select: auto;"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="max-width: 100%; margin-left = "6px"     user-select: auto;"> 
  </a>
  
  
  <a href="https://www.mongodb.com/" rel="nofollow" style="user-select: auto;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDb" width="40" height="40" style="max-width: 100%;     user-select: auto;"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDb" width="40" height="40" style="max-width: 100%; margin-left = "6px"     user-select: auto;"> 
  </a>
  
  <a href="https://nodejs.org/en/" rel="nofollow" style="user-select: auto;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="40" height="40" style="max-width: 100%;     user-select: auto;"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="40" height="40" style="max-width: 100%; margin-left = "6px"    user-select: auto;"> 
  </a>
  
  <a href="https://reactjs.org/" rel="nofollow" style="user-select: auto;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="max-width: 100%;     user-select: auto;"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="max-width: 100%;  margin-left = "6px"   user-select: auto;"> 
  </a>
  
  <a href="https://www.postman.com/" rel="nofollow" style="user-select: auto;">
-  <img src="https://camo.githubusercontent.com/93b32389bf74600…3746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="Postman" width="40" height="40" style="max-width: 100%;     user-select: auto;"> 
+  <img src="https://camo.githubusercontent.com/93b32389bf74600…3746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="Postman" width="40" height="40" style="max-width: 100%; margin-left = "6px"    user-select: auto;"> 
  </a>
  
  

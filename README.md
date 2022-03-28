@@ -52,5 +52,6 @@
  </a>
   
  </p>
- 
+ <div dir="auto" style="user-select: auto;">
  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/1c599fd……6f6d2f6…" data-canonical-src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" style="max-width: 100%; user-select: auto;">
+ </div>
